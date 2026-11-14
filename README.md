@@ -5,7 +5,7 @@ Bill-Bot is a mobile expense-tracking application that simplifies the process of
 
 The mobile dashboard displays recent expenses, the current month's spending total, and a vendor-wise spending summary. The project was developed as a **2025 Summer Internship Project**.
 
-> **Implementation note:** The current backend uses Tesseract OCR and rule-based text parsing. It does not use a generative AI model. Extracted values should be reviewed for accuracy, especially when bill images are unclear or use unusual layouts.
+> **Implementation note:** The current backend uses Tesseract OCR and rule-based text parsing. It does not use a generative AI model yet. Extracted values should be reviewed for accuracy, especially when bill images are unclear or use unusual layouts.
 
 ## Key Features
 
